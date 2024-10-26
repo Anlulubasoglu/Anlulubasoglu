@@ -20,7 +20,7 @@ Bu derste döngüleri daha iyi anlayarak konsol üzerinde basit şekil çizme i�
 ## 📌📌 Proje-6 : Diziler
 Bu eğitimde dizileri nasıl kullancağımı ve dizi içinde bulunan verilerimi nasıl yöneteceğimi öğrendim.🔗
 
-##📌📌 Proje-7 : ForEach
+## 📌📌 Proje-7 : ForEach
 Bu derste foreach döngüsü kullanarak bir sınav sonuç sistemi oluşturdum öğrendiklerimi pekiştirmek adına çok faydalı oldu.🔗
 
 ## 📌📌 Proje-8 : Methods 
