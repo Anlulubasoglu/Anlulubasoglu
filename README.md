@@ -27,6 +27,34 @@ Bu derste foreach döngüsü kullanarak bir sınav sonuç sistemi oluşturdum ö
 Bu ders ile hangi methodu ne zaman nerede kullanacağımı ve değer döndüren ve değer döndürmeyen methodları öğrendim. Bunları öğrenerek kendi projelerimde🔗
 kendime ait sınıf ve methot oluşturmak daha kolay olacak.
 
+## 📌📌 Proje-9 : Database Project
+Bu Projede veritabanı oluşturarak Ado.net bağlantı yapısını kullanarak veri tabanımda oluşturduğum tablolardan veri çekmeyi öğrendim.
+SqlConnection komutu ile veri tabanı ile bağlantı kurmayı, SqlCommand ile veri tabanından sorgular ile veri almayı öğrendim.
+
+## 📌📌 Proje-10 : Database Crud
+Bu Projede oluşturmuş olduğum veritabanına  Ado.net bağlantı yapısını kullanarak ve Ado.net yapısı ile CRUD işlemlerini öğrendim
+C- Create
+R- Remove
+U- Update
+D- Delete
+Veritabanımda silme,güncelleme,Silme,vb işlemleri yaparak veritabanını etkileşimli olarak kullandım.
+
+## 📌📌 Proje-11 : Travel Statistics
+
+
+
+
+
+
+
+
+
+
+Bu Projede oluşturmuş olduğum veritabınınına EntitiyFramework yapısı ile bağlantı yapmayı, veritabanımdan Linq sorguları ile,
+seyehat panelindeki istasikleri bir Windows form uygulması üzerinde göstermeyi ve kullanıcıların rahatça kullanabilceği bir panel tasarlamayı öğrendim.
+İstatistik formunda genel olarak Ortalama müşteri kapasitesi,fiyat ortalaması,en çok ziyaret edilen lokasyon Vb. genel bilgiler bulunmakta.
+Bu proje sonunda hem EntitiyFrameWork hemde LINQ sorugularını kavramış oldum..
+
 ## Bu kurs ile daha ileri seviyelere ulaşmak için ilk adımı attım, daha güçlenerek devam edeceğim.🏹🏹
 
 <h1 align="center">Hi 👋, I'm Anlulubasoglu</h1>
